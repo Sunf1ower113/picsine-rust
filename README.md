@@ -4,15 +4,15 @@ This repository contains solutions to the challenges completed during the Rust p
 
 ## About Alem School
 
-Alem School is an educational institution that follows the 01 EDU system, co-founded by Nicolas Sadirac, one of the founders of School 42. <br /> 
-The school emphasizes project-based learning, peer-to-peer collaboration, and mastery of skills rather than traditional classroom teaching methods. <br /> 
+Alem School is an educational institution that follows the 01 EDU system, co-founded by Nicolas Sadirac, one of the founders of School 42. 
+The school emphasizes project-based learning, peer-to-peer collaboration, and mastery of skills rather than traditional classroom teaching methods. 
 Alem School's curriculum focuses on practical programming skills, problem-solving abilities, and fostering a culture of independent learning.
 
 ## What is a Pool?
 
-In the context of Alem School, a "pool" (or "piscine" in French) is an intensive learning period where students immerse themselves in practical programming tasks. <br /> 
-During the pool, students tackle a series of challenges designed to test their understanding of Rust programming concepts and techniques. <br /> 
-Pools typically last 4 weeks, and students are expected to work on tasks for extended hours, sometimes even overnight. <br /> 
+In the context of Alem School, a "pool" (or "piscine" in French) is an intensive learning period where students immerse themselves in practical programming tasks. 
+During the pool, students tackle a series of challenges designed to test their understanding of Rust programming concepts and techniques. 
+Pools typically last 4 weeks, and students are expected to work on tasks for extended hours, sometimes even overnight. 
 Pools are a key component of Alem School's educational approach, providing students with hands-on experience, encouraging teamwork, and fostering rapid skill development.
 
 ## Folder Structure
